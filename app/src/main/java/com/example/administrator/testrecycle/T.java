@@ -5,5 +5,5 @@ package com.example.administrator.testrecycle;
  */
 
 public class T {
-    int i=-18467;
+    int i=-17;
 }
